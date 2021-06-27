@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Hi](https://user-images.githubusercontent.com/29875502/123548999-8805f200-d73d-11eb-89db-ce07ca1e720a.gif)
 
 <!--
 **koffran/koffran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
